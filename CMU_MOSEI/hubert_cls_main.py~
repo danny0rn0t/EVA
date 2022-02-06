@@ -1,0 +1,4 @@
+import os
+for i in range(4):
+    command = f"time python3 hubert_cls.py"
+    os.system(command)
