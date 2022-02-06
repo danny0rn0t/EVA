@@ -1,0 +1,5 @@
+s=(https://openslr.magicdatatech.com/resources/12/train-clean-100.tar.gz \
+    https://openslr.magicdatatech.com/resources/12/train-clean-100.tar.gz \
+    https://openslr.magicdatatech.com/resources/12/train-other-500.tar.gz \
+    https://openslr.magicdatatech.com/resources/12/dev-clean.tar.gz \
+    https://openslr.magicdatatech.com/resources/12/dev-clean.tar.gz)
